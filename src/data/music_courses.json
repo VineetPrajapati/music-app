@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Music Theory",
+        "slug": "introduction-to-music-theory",
+        "description": "Learn the fundamentals of music theory including notes, scales, chords, and rhythm.",
+        "price": 49.99,
+        "instructor": "John Smith",
+        "isFeatured": true,
+        "image": "https://example.com/music-theory.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Begin your journey into playing the piano with this comprehensive course for beginners.",
+        "price": 79.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": false,
+        "image": "https://example.com/piano-for-beginners.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Guitar Masterclass",
+        "slug": "guitar-masterclass",
+        "description": "Take your guitar skills to the next level with advanced techniques and expert guidance.",
+        "price": 99.99,
+        "instructor": "Michael Brown",
+        "isFeatured": true,
+        "image": "https://example.com/guitar-masterclass.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Singing Foundations",
+        "slug": "singing-foundations",
+        "description": "Build a strong foundation in singing with proper vocal techniques and exercises.",
+        "price": 59.99,
+        "instructor": "Sarah Davis",
+        "isFeatured": false,
+        "image": "https://example.com/singing-foundations.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Drums Crash Course",
+        "slug": "drums-crash-course",
+        "description": "Get started with drumming essentials and rhythms in this crash course for beginners.",
+        "price": 69.99,
+        "instructor": "Alex Martinez",
+        "isFeatured": true,
+        "image": "https://example.com/drums-crash-course.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Music Production Basics",
+        "slug": "music-production-basics",
+        "description": "Learn the basics of music production including recording, mixing, and mastering.",
+        "price": 89.99,
+        "instructor": "Daniel Lee",
+        "isFeatured": false,
+        "image": "https://example.com/music-production-basics.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Violin Essentials",
+        "slug": "violin-essentials",
+        "description": "Master essential techniques and repertoire for playing the violin.",
+        "price": 69.99,
+        "instructor": "Olivia White",
+        "isFeatured": true,
+        "image": "https://example.com/violin-essentials.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Songwriting Workshop",
+        "slug": "songwriting-workshop",
+        "description": "Unlock your creativity and learn the art of songwriting from experienced songwriters.",
+        "price": 79.99,
+        "instructor": "James Taylor",
+        "isFeatured": false,
+        "image": "https://example.com/songwriting-workshop.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Harmonica Basics",
+        "slug": "harmonica-basics",
+        "description": "Discover the basics of playing the harmonica including breathing techniques and simple melodies.",
+        "price": 39.99,
+        "instructor": "Nathan Adams",
+        "isFeatured": true,
+        "image": "https://example.com/harmonica-basics.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Learn how to produce electronic music using software synthesizers, samplers, and sequencers.",
+        "price": 109.99,
+        "instructor": "Sophie Roberts",
+        "isFeatured": true,
+        "image": "https://example.com/electronic-music-production.jpg"
+      }
+    ]
+  }
+   
