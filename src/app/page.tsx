@@ -1,5 +1,6 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import Instructors from "@/components/Instructors";
 import MovingTestimonial from "@/components/MovingTestimonial";
 import UpcomingWebnar from "@/components/UpcomingWebnar";
 import WhyChooseUs from "@/components/WhyChooseUs";
@@ -13,6 +14,7 @@ export default function Home() {
     <WhyChooseUs />
     <MovingTestimonial />
     <UpcomingWebnar />
+    <Instructors />
     </>
   );
 }
