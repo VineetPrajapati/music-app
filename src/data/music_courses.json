@@ -8,7 +8,7 @@
         "price": 49.99,
         "instructor": "John Smith",
         "isFeatured": true,
-        "image": "https://images.pexels.com/photos/5699509/pexels-photo-5699509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image": "https://images.pexels.com/photos/1389429/pexels-photo-1389429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": 79.99,
         "instructor": "Emily Johnson",
         "isFeatured": false,
-        "image": "https://example.com/piano-for-beginners.jpg"
+        "image": "https://images.pexels.com/photos/1246437/pexels-photo-1246437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": 99.99,
         "instructor": "Michael Brown",
         "isFeatured": true,
-        "image": "https://example.com/guitar-masterclass.jpg"
+        "image": "https://images.pexels.com/photos/290660/pexels-photo-290660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "id": 4,
@@ -38,7 +38,7 @@
         "price": 59.99,
         "instructor": "Sarah Davis",
         "isFeatured": false,
-        "image": "https://example.com/singing-foundations.jpg"
+        "image": "https://images.pexels.com/photos/2091375/pexels-photo-2091375.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
       {
         "id": 5,
@@ -48,7 +48,7 @@
         "price": 69.99,
         "instructor": "Alex Martinez",
         "isFeatured": true,
-        "image": "https://example.com/drums-crash-course.jpg"
+        "image": "https://images.pexels.com/photos/241687/pexels-photo-241687.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
       {
         "id": 6,
@@ -58,7 +58,7 @@
         "price": 89.99,
         "instructor": "Daniel Lee",
         "isFeatured": false,
-        "image": "https://example.com/music-production-basics.jpg"
+        "image": "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
       {
         "id": 7,
@@ -68,7 +68,7 @@
         "price": 69.99,
         "instructor": "Olivia White",
         "isFeatured": true,
-        "image": "https://example.com/violin-essentials.jpg"
+        "image": "https://images.pexels.com/photos/3120109/pexels-photo-3120109.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
       {
         "id": 8,
@@ -78,7 +78,7 @@
         "price": 79.99,
         "instructor": "James Taylor",
         "isFeatured": false,
-        "image": "https://example.com/songwriting-workshop.jpg"
+        "image": "https://images.pexels.com/photos/534283/pexels-photo-534283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "id": 9,
@@ -88,7 +88,7 @@
         "price": 39.99,
         "instructor": "Nathan Adams",
         "isFeatured": true,
-        "image": "https://example.com/harmonica-basics.jpg"
+        "image": "https://images.pexels.com/photos/8642511/pexels-photo-8642511.jpeg?auto=compress&cs=tinysrgb&w=600"
       },
       {
         "id": 10,
@@ -98,7 +98,7 @@
         "price": 109.99,
         "instructor": "Sophie Roberts",
         "isFeatured": true,
-        "image": "https://example.com/electronic-music-production.jpg"
+        "image": "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&w=600"
       }
     ]
   }

@@ -1,4 +1,5 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Instructors from "@/components/Instructors";
 import MovingTestimonial from "@/components/MovingTestimonial";
@@ -15,6 +16,7 @@ export default function Home() {
     <MovingTestimonial />
     <UpcomingWebnar />
     <Instructors />
+    <Footer />
     </>
   );
 }

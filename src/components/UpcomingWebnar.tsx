@@ -72,18 +72,19 @@ function UpcomingWebnar() {
           </p>
         </div>
         <div className="mt-10 max-w-5xl mx-auto px-8">
-          <HoverEffect items={upcomingWebinars.map(webinar => (
-            {
+          <HoverEffect
+            items={upcomingWebinars.map((webinar) => ({
               title: webinar.title,
               description: webinar.description,
-              link: webinar.link
-              
-            }
-          ))} />
+              link: webinar.link,
+            }))}
+          />
         </div>
         <div className="text-center">
-          <Link href={"/"}
-          className="px-4 py-2 rounded-full border border-neutral-600 text-neutral-700 bg-white hover:bg-gray-300 transition duration-200">
+          <Link
+            href={"#"}
+            className="px-4 py-2 rounded-lg border border-neutral-600 text-neutral-700 bg-white hover:bg-gray-300 transition duration-200"
+          >
             Upcoming Webinars
           </Link>
         </div>
