@@ -2,7 +2,13 @@
 import Link from "next/link";
 import { HoverEffect } from "./ui/card-hover-effect";
 
-const upcomingWebinars = [
+interface UpcomingWebinars {
+  title: string,
+  description: string,
+  link: any
+
+}
+const upcomingWebinars: Array<UpcomingWebinars>  = [
   {
     title: "Mastering Music Production Techniques",
     description:
